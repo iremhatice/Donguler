@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\bin\Debug\net8.0\2-WhileDongusu.exe
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\bin\Debug\net8.0\2-WhileDongusu.deps.json
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\bin\Debug\net8.0\2-WhileDongusu.runtimeconfig.json
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\bin\Debug\net8.0\2-WhileDongusu.dll
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\bin\Debug\net8.0\2-WhileDongusu.pdb
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\2-WhileDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\2-WhileDongusu.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\2-WhileDongusu.AssemblyInfo.cs
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\2-WhileDongusu.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\2-WhileDongusu.sourcelink.json
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\2-WhileDongusu.dll
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\refint\2-WhileDongusu.dll
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\2-WhileDongusu.pdb
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\2-WhileDongusu.genruntimeconfig.cache
+C:\Users\pc\Desktop\Çalışmalarım\Donguler\2-WhileDongusu\obj\Debug\net8.0\ref\2-WhileDongusu.dll
